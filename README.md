@@ -1,6 +1,3 @@
-# .github
-We are an online community for Catholic developers, technologists, and visual media artists.
-
 # Mission Statement
 We are an online community for Catholic developers, technologists, and visual media artists. Our mission is to use our gifts and talents for one common goal: the greater glory of God. With our shared faith, interests, hobbies, and talents, we wish to act as a platform for collaboration, feedback, networking, and community projects.
 
