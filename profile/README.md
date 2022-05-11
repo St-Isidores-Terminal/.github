@@ -11,3 +11,5 @@ He was canonized a saint of the Roman Catholic Church in 1598, and is also recog
 
 He is regarded as the patron saint of Computer Users because of his most important work: the Etymologiae. This was an organized compilation of all knowledge from the time. Its title was taken from the method he used in the transcription of his era's knowledge and was similar to a dictionary. This method gave his work a structure similar to that of the database
 Saint Isidore of Seville, Pray for Us
+
+<img src="https://raw.githubusercontent.com/St-Isidores-Terminal/discord-assests/main/square.jpg![image](https://user-images.githubusercontent.com/62484274/167766044-d0db3b56-b77a-4de4-9010-f4cc06d8096c.png)"></img>
